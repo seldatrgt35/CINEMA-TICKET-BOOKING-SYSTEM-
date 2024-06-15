@@ -1,0 +1,27 @@
+Inception,1,2024-05-05-16-30,StandartSaloon
+Inception,3,2024-05-05-19-00,IMAXSaloon
+Inception,4,2024-05-05-21-30,GoldClassSaloon
+The Shawshank Redemption,1,2024-05-05-15-30,StandartSaloon
+The Shawshank Redemption,2,2024-05-05-18-00,StandartSaloon
+The Shawshank Redemption,3,2024-05-05-20-30,IMAXSaloon
+The Godfather,1,2024-05-05-16-45,StandartSaloon
+The Godfather,3,2024-05-05-19-15,IMAXSaloon
+The Godfather,4,2024-05-05-21-45,GoldClassSaloon
+Pulp Fiction,2,2024-05-05-17-00,StandartSaloon
+Pulp Fiction,4,2024-05-05-19-30,GoldClassSaloon
+Pulp Fiction,1,2024-05-05-22-00,StandartSaloon
+The Dark Knight,3,2024-05-05-16-15,IMAXSaloon
+The Dark Knight,1,2024-05-05-18-45,StandartSaloon
+The Dark Knight,2,2024-05-05-21-15,StandartSaloon
+Forrest Gump,4,2024-05-05-15-45,GoldClassSaloon
+Forrest Gump,2,2024-05-05-18-30,StandartSaloon
+Forrest Gump,3,2024-05-05-21-00,IMAXSaloon
+The Matrix,2,2024-05-05-17-15,StandartSaloon
+The Matrix,4,2024-05-05-19-45,GoldClassSaloon
+The Matrix,1,2024-05-05-22-15,StandartSaloon
+Hababam Sınıfı,1,2024-05-06-17-30,StandartSaloon
+Hababam Sınıfı,1,2024-05-05-20-00,StandartSaloon
+Hababam Sınıfı,2,2024-05-05-22-30,StandartSaloon
+Issız Adam,1,2024-05-05-18-15,StandartSaloon
+Issız Adam,2,2024-05-05-20-45,StandartSaloon
+Issız Adam,3,2024-05-05-23-15,IMAXSaloon

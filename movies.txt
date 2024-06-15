@@ -1,0 +1,9 @@
+Forrest Gump,Robert Zemeckis,142,Dram
+Inception,Christopher Nolan,148,Sci-Fi
+The Shawshank Redemption,Frank Darabont,142,Drama
+The Godfather,Francis Ford Coppola,175,Drama
+Pulp Fiction,Quentin Tarantino,154,Crime
+The Dark Knight,Christopher Nolan,152,Crime
+The Matrix,Lana-Lilly Wachowski,136,Sci-Fi
+Hababam Sınıfı,Ertem Eğilmez,90,Comedy
+Issız Adam,Çağan Irmak,113,Dram
